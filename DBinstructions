@@ -1,0 +1,41 @@
+
+*-----------------INSTRUCTIONS-------------------*
+|Welcome to the shoddiest database you've ever   |
+|used. The list of operational instructions is   |
+|short and confusing. Buckle up, things are      |
+|about to get very "non-standard".               |
+|                                                |
+|When the database starts up all tables in the   |
+|current directory will be loaded.               |
+|From here you will be invited to perform a      |
+|number of operations, type one of the following |
+|and press enter;                                |
+|"create table"                                  |
+|  (use ** to denote the end of column list,     |
+|   separate column names with a new line)       |
+|"create record"                                 |
+|  (creates a row of a table use ** to denote    |
+|   the end of entries list, separate entries    |
+|   with a new line)                             |
+|"show tables"                                   |
+|  (display all content from all tables)         |
+|"list tables"                                   |
+|  (display a list of tables)                    |
+|"find all"                                      |
+|  (find all rows with a particular entry)       |
+|"show column"                                   |
+|  (show a particular column of a table)         |
+|"delete saved"                                  |
+|  (remove a table from the database)            |
+|"move record"                                   |
+|  (move a record from one table to another)     |
+|"change record"                                 |
+|"save tables"                                   |
+|"*exit*" exits the program                      |
+|                                                |
+|In general *'s are used as special symbols and  |
+|should be avoided, if you would like to leave   |
+|an entry blank for some particular table, please|
+|use the keyword "empty".                        |
+|Good luck...                                    |
+*-------------END OF INSTRUCTIONS----------------*
